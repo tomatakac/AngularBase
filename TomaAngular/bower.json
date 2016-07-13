@@ -1,0 +1,46 @@
+{
+  "name": "comdata.startangularproject",
+  "authors": [
+    "<Petar Petrovic <pera@comdata.rs>>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular-bootstrap": "0.13.4",
+    "angular": "1.5.6",
+    "angular-route": "1.5.6",
+    "angular-filter": "0.5.8",
+    "angular-file-upload": "1.1.5",
+    "angular-animate": "1.5.6",
+    "angular-aria": "1.5.6",
+    "angular-cookies": "1.5.6",
+    "angular-loader": "1.5.6",
+    "angular-messages": "1.5.6",
+    "angular-message-format": "1.5.6",
+    "angular-mocks": "1.5.6",
+    "angular-moment": "0.10.3",
+    "angular-resource": "1.5.6",
+    "angular-ui-router": "0.2.18",
+    "angular-sanitize": "1.5.6",
+    "angular-scenario": "1.5.6",
+    "angular-touch": "1.5.6",
+    "jquery-ui": "1.11.4",
+    "angular-ui-sortable": "0.13.4",
+    "angular-translate": "2.8.1",
+    "moment": "2.10.6",
+    "moment-timezone": "0.4.1",
+    "bootstrap": "3.3.5",
+    "angular-rangeslider": "0.0.14",
+    "css-element-queries": "0.3.2",
+    "moment-range": "2.1.0",
+    "angular-ui-grid": "3.1.1",
+    "ui-grid-draggable-rows": "0.3.2",
+    "file-saver": "1.2.2"
+  },
+  "resolutions": {
+    "angular": "1.5.6"
+  }
+}
