@@ -25,7 +25,8 @@ gulp.task('js-app-build-scripts', function () {
     var scripts = [
         'webappRoot/app.js',
         'webappRoot/route.js',
-        'webappRoot/controllers/home/home.controller.js'
+        'webappRoot/controllers/home/home.controller.js',
+        'webappRoot/controllers/ChartController/home.controller.js'
     ];
 
     return gulp.src(scripts)

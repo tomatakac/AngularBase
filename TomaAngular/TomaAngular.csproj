@@ -75,6 +75,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <Content Include="package.json" />
+    <Content Include="webappRoot\controllers\ChartController\Chart.js" />
     <Content Include="webappRoot\controllers\home\home.controller.js" />
   </ItemGroup>
   <ItemGroup>
